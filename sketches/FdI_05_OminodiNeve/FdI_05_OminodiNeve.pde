@@ -20,6 +20,6 @@ void drawSnowman(int x, int y, int r){
 void draw(){
   background(255);
   drawSnowman(100,125,50);
-  drawSnowman(130,150,25);
-  drawSnowman(70,100,25);
+  //drawSnowman(130,150,25);
+  //drawSnowman(70,100,25);
 }
