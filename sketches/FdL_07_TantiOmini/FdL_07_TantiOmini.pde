@@ -7,7 +7,7 @@ OminoDiNeve[] omini;
 void setup() {
   size(400, 400);
   // inizializzazione
-  omini = new OminoDiNeve[40];
+  omini = new OminoDiNeve[300];
   
   for(int i = 0 ; i < omini.length ; i++){
     omini[i] = new OminoDiNeve(
