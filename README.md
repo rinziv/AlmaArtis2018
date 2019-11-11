@@ -13,7 +13,7 @@ Materiale del corso di Fondamenti di Informatica AA 2018/2019
 | 7 | 05 Dicembre 2018 | Oggetti                   | [slides](/slides/07_Oggetti.pdf)          |
 
 # Alma Artis 2019
-Materiale del corso di Fondamenti di Informatica AA 2019/2018
+Materiale del corso di Fondamenti di Informatica AA 2019/2020
 
 ## Calendario delle lezioni
 | # | Data             | Argomento                 | Materiale |
