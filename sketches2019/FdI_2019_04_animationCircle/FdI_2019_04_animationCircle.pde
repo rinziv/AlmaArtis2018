@@ -11,6 +11,7 @@ void draw() {
   background(255);
   
   //show
+  fill(255, 100, 100);
   ellipse(circleX,circleY,circleR,circleR);
   //update
   //circleX = circleX + 2;
