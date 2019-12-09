@@ -8,7 +8,7 @@ void setup() {
 
 
 void draw() {
-  background(255);
+  background(160);
   rectMode(CENTER);
 
   show();
@@ -27,7 +27,10 @@ void drawCar(float x, float y, float h ) {
 }
 
 void drawMiddleLine(float w, float gap, float h){
-  
+  fill(255);
+  for(int i =0; i < 10; i++){
+    rect(i*(w+gap), height / 2, w ,h);
+  }
 }
 
 void show() {
