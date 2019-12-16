@@ -21,6 +21,9 @@ Materiale del corso di Fondamenti di Informatica AA 2019/2020
 | 1 | 21 ottobre 2019  | Introduzione al corso     | [slides](/slides/01_intro.pdf)          |
 | 2 | 28 ottobre 2019  | Introduzione a processing | [slides](/slides/02_intro_processing.pdf)          |
 | 3 | 04 Novembre 2019 | Variabili                 | [slides](/slides/03_variabili_condizioni.pdf)          |
-| 4 | 11 Novembre 2018 | Condizioni                | [slides](/slides/04_Conditionals_Loops.pdf)         |
-| - | 18 Novembre 2018 | Nessuna lezione                |        |
-| 5 | 25 Novembre 2018 | Iteratori                | [slides](/slides/04_Conditionals_Loops.pdf)         |
+| 4 | 11 Novembre 2019 | Condizioni                | [slides](/slides/04_Conditionals_Loops.pdf)         |
+| - | 18 Novembre 2019 | Nessuna lezione                |        |
+| 5 | 25 Novembre 2019 | Iteratori                | [slides](/slides/04_Conditionals_Loops.pdf)         |
+| 6 | 02 Dicembre 2019 | Funzioni                | [slides](/slides/05_Funzioni.pdf)         |
+| 7 | 09 Dicembre 2019 | Esercitazione                |          |
+| 8 | 0916 Dicembre 2019 | Esercitazione                |          |
