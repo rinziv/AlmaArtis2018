@@ -26,4 +26,6 @@ Materiale del corso di Fondamenti di Informatica AA 2019/2020
 | 5 | 25 Novembre 2019 | Iteratori                | [slides](/slides/04_Conditionals_Loops.pdf)         |
 | 6 | 02 Dicembre 2019 | Funzioni                | [slides](/slides/05_Funzioni.pdf)         |
 | 7 | 09 Dicembre 2019 | Esercitazione                |          |
-| 8 | 0916 Dicembre 2019 | Esercitazione                |          |
+| 8 | 16 Dicembre 2019 | Esercitazione                |          |
+| 9 | 13 Gennaio 2020 | Oggetti, Classi - Trasformazioni                |  [slides](/slides/07_Oggetti.pdf)         |
+| 10 | 20 Gennaio 2020 | Esercitazione su oggetti classi e trasformazioni               |          |
