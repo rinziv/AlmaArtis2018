@@ -9,7 +9,10 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(#98F4FF);
+  fill(#955209);
+  noStroke();
+  rect(0,height/2, width, height);
   ball.show();
   ball.update();
   ball.bounce();

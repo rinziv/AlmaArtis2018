@@ -24,8 +24,8 @@ class Ball {
   }
   
   void bounce(){
-    if (y > height -25){
-       y = height -25;
+    if (y > height/2 ){
+       y = height/2;
        //yspeed = yspeed * -1 * 0.3;
        yspeed = 0;
     }
